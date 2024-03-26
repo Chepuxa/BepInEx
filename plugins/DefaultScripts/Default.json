@@ -1,5 +1,6 @@
 {
     "comment": "The default behaviour of the mod",
+    "isAddon": true,
     "volumeGroups": [
         {
             "tag": "EscapeMusic",
@@ -71,7 +72,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ThousandMarch"
+                "ThousandMarch.ogg"
             ]
         },
         {
@@ -87,7 +88,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ByeByeThere"
+                "ByeByeThere.ogg"
             ]
         },
         {
@@ -98,8 +99,8 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ItsPizzaTime",
-                "TheDeathThatIDeservioli"
+                "ItsPizzaTime.ogg",
+                "TheDeathThatIDeservioli.ogg"
             ]
         },
         {
@@ -122,7 +123,7 @@
             ],
             "overlapHandling": "overlap",
             "musicNames": [
-                "YourFatAssSlowsYouDown"
+                "YourFatAssSlowsYouDown.ogg"
             ]
         },
         {

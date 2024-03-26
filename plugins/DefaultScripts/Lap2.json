@@ -6,6 +6,12 @@
             "tag": "EscapeMusic",
             "volumeLerpSpeed": 2,
             "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Default volume",
+                    "volume": 0.7
+                }
+            ],
             "volumeModifiers": [
                 {
                     "comment": "Crouching volume scale",
@@ -21,6 +27,12 @@
             "tag": "Lap2Music",
             "volumeLerpSpeed": 2,
             "stoppingVolumeLerpSpeed": 0.25,
+            "volumeRules": [
+                {
+                    "comment": "Default volume",
+                    "volume": 0.7
+                }
+            ],
             "volumeModifiers": [
                 {
                     "comment": "Crouching volume scale",
@@ -58,7 +70,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ByeByeThere"
+                "ByeByeThere.ogg"
             ]
         },
         {
@@ -77,7 +89,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ItsPizzaTime"
+                "ItsPizzaTime.ogg"
             ]
         },
         {
@@ -99,7 +111,7 @@
             "overlapHandling": "OverrideTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ItsPizzaTime"
+                "ItsPizzaTime.ogg"
             ]
         },
         {
@@ -114,7 +126,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "Lap2Music",
             "musicNames": [
-                "TheDeathThatIDeservioli"
+                "TheDeathThatIDeservioli.ogg"
             ]
         },
         {
@@ -144,7 +156,7 @@
             ],
             "overlapHandling": "overlap",
             "musicNames": [
-                "YourFatAssSlowsYouDown"
+                "YourFatAssSlowsYouDown.ogg"
             ]
         },
         {

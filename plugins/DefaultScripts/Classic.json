@@ -71,7 +71,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ThousandMarch"
+                "ThousandMarch.ogg"
             ]
         },
         {
@@ -87,7 +87,7 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ByeByeThere"
+                "ByeByeThere.ogg"
             ]
         },
         {
@@ -98,8 +98,8 @@
             "overlapHandling": "IgnoreTag",
             "tag": "EscapeMusic",
             "musicNames": [
-                "ItsPizzaTime",
-                "TheDeathThatIDeservioli"
+                "ItsPizzaTime.ogg",
+                "TheDeathThatIDeservioli.ogg"
             ]
         },
         {
